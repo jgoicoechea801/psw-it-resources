@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadCertificateFileName</key>
+            <string>sophos-ca.crt</string>
+            <key>PayloadContent</key>
+            <data>
+LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSUVoVENDQTIyZ0F3SUJBZ0lCQVRBTkJna3Foa2lHOXcwQkFRc0ZBRENCalRFTE1Ba0dBMVVFQmhNQ1IwSXgKRkRBU0JnTlZCQWdNQzA5NFptOXlaSE5vYVhKbE1ROHdEUVlEVlFRS0RBWlRiM0JvYjNNeEREQUtCZ05WQkFzTQpBMDVUUnpFbU1DUUdBMVVFQXd3ZFUyOXdhRzl6SUZOVFRDQkRRVjlEVVhVeFdIRnJhalIxTURaaE1sd3hJVEFmCkJna3Foa2lHOXcwQkNRRVdFbk4xY0hCdmNuUkFjMjl3YUc5ekxtTnZiVEFlRncweE5UQTRNREV3TURBd01EQmEKRncwek5qRXlNekV5TXpVNU5UbGFNSUdOTVFzd0NRWURWUVFHRXdKSFFqRVVNQklHQTFVRUNBd0xUM2htYjNKawpjMmhwY21VeER6QU5CZ05WQkFvTUJsTnZjR2h2Y3pFTU1Bb0dBMVVFQ3d3RFRsTkhNU1l3SkFZRFZRUUREQjFUCmIzQm9iM01nVTFOTUlFTkJYME5SZFRGWWNXdHJOSFV3Tm1FeWJERWhNQjhHQ1NxR1NJYjNEUUVKQVJZU2MzVncKY0c5eWRFQnpiM0JvYjNNdVkyOXRNSUlCSWpBTkJna3Foa2lHOXcwQkFRRUZBQU9DQVE4QU1JSUJDZ0tDQVFFQQp1SGVQUkR6cWdkOElEUXJCekd2NFVBbXIrd1A3M2ZQdzdoQU5keG14QzZvQ0hDR2k5K3MvYTd1YURHMUhMcG1uCnhIMUJMWHBYaTBja3Rib2pkQ1Z5K21PUDNDcFBBbVFvWTU5eWxGSExGK0o1UC9YdC9Ob211MEIyTllIR0ZTa2EKemFUNGpKSWlQZmtJU0tIU3RlMEp4SHhTOGlYdU5SVXFaR0hQaTE5ckN6ZkpodjVWOE5ydW5CWk8zVHdSRThMRwoxT2x0NGFwdTU1bkFNcVZQc1BiUXhDak5FZDRQYWlIaU12WDYxWE5kaFZPSk8xTjdBNHRJbjNheE9CQS92WjlmCmp1R1FvdzdQM3FSck5Nc01udGRzWml5R3FyM2VXT0lHQmpxV0QvNzB2bitjbS9rbVFUOHV5TkVBSG5ySVBmWTcKS3VLU0xmeC8wckVmMTM2ZkM4dk5Hd0lEQVFBQm80SHRNSUhxTUIwR0ExVWREZ1FXQkJTTFJNcmllTHowNXAvMQpIYnluTmVoZlZLWEpXVENCdWdZRFZSMGpCSUd5TUlHdmdCU0xSTXJpZUx6MDVwLzFIYnluTmVoZlZLWEpXYUdCCms2U0JrRENCalRFTE1Ba0dBMVVFQmhNQ1IwSXhGREFTQmdOVkJBZ01DMDk0Wm05eVpITm9hWEpsTVE4d0RRWUQKVlFRS0RBWlRiM0JvYjNNeEREQUtCZ05WQkFzTUEwNVRSekVtTUNRR0ExVUVBd3dkVTI5d2FHOXpJRk5UVENCRApRVjlEVVhVeFdIRnJhelIxTURaaE1sd3hJVEFmQmdrcWhraUc5dzBCQ1FFV0VuTjFjSEJ2Y25SQWMyOXdhRzl6CkxtTnZiWUlCQVRBTUJnTlZIUk1FQlRBREFRSC9NQTBHQ1NxR1NJYjNEUUVCQ3dVQUE0SUJBUUJyMStnVkpkTDgKY1ZVT0ttTTVaSDJTYWowZFZwY21YYm9iRHpndnE5ZUJ6aU5Cb1htTVFxaWxUNXdIR0lWR1RKR1phR3BFSjAzdgprVk1vL04wcnc0dWh6OS95SlhTRVY0d1FKbG40WEM0V0hXUTdyeksvU3h2WHB6c0JyN3NhKzJ4VFVnMlN5d215Cis3eHZPbDFkK3pDVTFLNFhvdUczVEl3VTJFZHZBN0JheFRQMXdBeW1McVpwWWJ2SlA3bTdyNEZrREcwRG1xanEKbjJWVGZtNGs4cUpVSDVHUitnbGVUeEd5QldnWTJVR2ZGUnhybEdpZVRBYlBZZU5PWTdTajRJcDdybXZ3dmlaSApsNWlPbFpobllLQlVYMVVmdWhPeFFySGNQL1d2MkFOdVBvVnZza2x6S09iY25lNkk4NFRTRThvbUg5NmVQc0tXCm9MZVhjdnJmSjMzLwotLS0tLUVORCBDRVJUSUZJQ0FURS0tLS0tCg==
+            </data>
+            <key>PayloadDescription</key>
+            <string>Installs the Sophos SSL CA Certificate</string>
+            <key>PayloadDisplayName</key>
+            <string>Sophos SSL CA Certificate</string>
+            <key>PayloadIdentifier</key>
+            <string>com.polkstanleywilcox.sophos.ca.cert</string>
+            <key>PayloadType</key>
+            <string>com.apple.security.root</string>
+            <key>PayloadUUID</key>
+            <string>A1B2C3D4-E5F6-7890-ABCD-EF1234567890</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Trusts the Sophos SSL CA for HTTPS inspection</string>
+    <key>PayloadDisplayName</key>
+    <string>PSW Sophos SSL CA Trust</string>
+    <key>PayloadIdentifier</key>
+    <string>com.polkstanleywilcox.sophos.ca</string>
+    <key>PayloadOrganization</key>
+    <string>Polk Stanley Wilcox Architects</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>B2C3D4E5-F6A7-8901-BCDE-F12345678901</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
